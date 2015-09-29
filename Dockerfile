@@ -1,4 +1,4 @@
-FROM php:latest
+FROM php:apache
 
 MAINTAINER Bryan Belanger bbelanger@azcender.com
 
